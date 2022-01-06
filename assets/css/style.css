@@ -56,6 +56,7 @@ html {
     padding: 10px 15px;
     border: none;
     text-align: center;
+    -webkit-appearance: none;
 }
 
 .btn:hover {
