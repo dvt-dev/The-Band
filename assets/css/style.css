@@ -189,6 +189,7 @@ html {
 
 #slider .text-description {
      font-size: 15px;
+     text-shadow: 0 0 1px #000;
      font-weight: 600;
 }
 
