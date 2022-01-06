@@ -373,6 +373,8 @@ html {
     padding: 15px 0;
 }
 
+/* MODAL */
+
 .modal {
     position: fixed;
     top: 0;
@@ -393,6 +395,7 @@ html {
 .modal-container {
     background-color: #fff;
     width: 900px;
+    margin: auto;
     position: relative;
     animation: modalFadeIn ease .5s;
 }
